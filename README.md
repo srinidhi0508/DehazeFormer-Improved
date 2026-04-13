@@ -72,10 +72,10 @@ We performed a structured **ablation study**:
 ##  Sample Results
 
 | Input      | Output         |
-| ---------- | -------------- |
-| Hazy Image | Dehazed Output |
+![0591_0 9_0 2](https://github.com/user-attachments/assets/3b34ca2d-e6c7-4c3a-83df-130138a28287)
+![0636_0 95_0 2](https://github.com/user-attachments/assets/455e3850-2a41-4c63-957d-9a422d277a6b)
+![CCD_4_frame_0162](https://github.com/user-attachments/assets/e98ab887-7bc0-47bc-aa7f-cef1f7ad26dd)
 
-> *(Add your comparison images in the `figs/` or `results/` folder and link them here)*
 
 ---
 
