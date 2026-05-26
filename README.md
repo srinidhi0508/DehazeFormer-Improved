@@ -157,11 +157,6 @@ python test.py
 
 ---
 
-##  License
-
-This project follows the license provided in the original repository.
-
----
 
 ##  Author
 
